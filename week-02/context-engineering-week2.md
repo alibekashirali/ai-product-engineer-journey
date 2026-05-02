@@ -139,7 +139,7 @@ JIT Data:         [пока нет]
 
 ## Context Pack — шаблон (итог Недели 2)
 
-```markdown
+````markdown
 ## Goal
 [Что должна сделать модель — одно предложение]
 
@@ -187,9 +187,8 @@ Output: ...
 - [ ] Band scores используют официальную IELTS шкалу
 - [ ] Priority Focus присутствует
 - [ ] Exercise присутствует
-```
+````
 
-```
 ---
 
 ## Сравнение с прошлой неделей
@@ -202,5 +201,5 @@ Output: ...
 | Артефакт | system-prompt-v1.md | context-pack-template.md + benchmark |
 
 ---
-```
+
 *Неделя 2 из 12 | AI Product Engineer Journey*
