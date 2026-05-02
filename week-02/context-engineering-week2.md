@@ -177,7 +177,6 @@ Output: ...
   "exercise": "string"
 }
 ```
-```
 
 ## Refusal Policy
 [Что делать в edge cases: запрос написать за студента, не-английский текст, etc]
@@ -188,10 +187,11 @@ Output: ...
 - [ ] Band scores используют официальную IELTS шкалу
 - [ ] Priority Focus присутствует
 - [ ] Exercise присутствует
-
+```
 
 ---
 
+```
 ## Сравнение с прошлой неделей
 
 | | Неделя 1 | Неделя 2 |
@@ -204,3 +204,4 @@ Output: ...
 ---
 
 *Неделя 2 из 12 | AI Product Engineer Journey*
+```
