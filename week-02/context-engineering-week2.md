@@ -123,7 +123,7 @@ Hardcoded logic                    Ложное предположение share
 
 ---
 
-## Применение к твоим проектам
+## Применение в проекте
 
 ### GainScore Writing Coach
 ```
@@ -177,6 +177,7 @@ Output: ...
   "exercise": "string"
 }
 ```
+```
 
 ## Refusal Policy
 [Что делать в edge cases: запрос написать за студента, не-английский текст, etc]
@@ -187,7 +188,7 @@ Output: ...
 - [ ] Band scores используют официальную IELTS шкалу
 - [ ] Priority Focus присутствует
 - [ ] Exercise присутствует
-```
+
 
 ---
 
