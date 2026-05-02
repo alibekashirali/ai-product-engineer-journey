@@ -1,6 +1,10 @@
 # Prompting Cheat Sheet — Week 1
 > Выжимка из официальных гайдов: Claude, GPT-5, Gemini
 
+[Claude prompting best practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)
+[GPT-5 prompting guide](https://developers.openai.com/cookbook/examples/gpt-5/gpt-5_prompting_guide)
+[Gemini prompt design strategies](https://ai.google.dev/gemini-api/docs/prompting-strategies) 
+
 ---
 
 ## Универсальные принципы (работают везде)
