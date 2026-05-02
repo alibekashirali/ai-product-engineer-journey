@@ -189,9 +189,9 @@ Output: ...
 - [ ] Exercise присутствует
 ```
 
+```
 ---
 
-```
 ## Сравнение с прошлой неделей
 
 | | Неделя 1 | Неделя 2 |
@@ -202,6 +202,5 @@ Output: ...
 | Артефакт | system-prompt-v1.md | context-pack-template.md + benchmark |
 
 ---
-
-*Неделя 2 из 12 | AI Product Engineer Journey*
 ```
+*Неделя 2 из 12 | AI Product Engineer Journey*
