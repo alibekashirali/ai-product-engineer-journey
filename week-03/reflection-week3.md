@@ -67,12 +67,6 @@ if sessions_count <= 10:  → retrieved_context  # оптимум
 if sessions_count > 10:   → retrieved + background compression
 ```
 
-### Segmentic / TanimAI
-Та же архитектура, другие данные:
-- `essay_sessions` → `creative_tests` (результаты тестов рекламных креативов)
-- `user_profiles` → `persona_profiles` (сегмент, поведенческие паттерны)
-- Retrieved режим: находит похожие тесты по типу креатива/аудитории
-
 ---
 
 ## Открытые вопросы → следующие недели

@@ -58,8 +58,6 @@ Claude дал Overall Band 4.0 в Round 1 и 4.5 в Round 2 для одного 
 ### GainScore
 Context Pack v3 — это уже почти production-ready system prompt для Writing Coach. Следующий шаг: подключить реальную `{{user_memory}}` через PostgreSQL (история эссе пользователя из БД). Это Неделя 3 — RAG и память.
 
-### Segmentic / TanimAI
-Та же логика Context Pack применима к AI-персонам: вместо `{{user_memory}}` — `{{persona_profile}}` (демография, боли, поведенческие паттерны сегмента). Вместо essay history — история взаимодействий персоны с креативами.
 
 ---
 
