@@ -1,0 +1,508 @@
+{
+  "meta": {
+    "version": "1.0",
+    "created": "2026-05-01",
+    "total_cases": 30,
+    "categories": {
+      "under_150_words": 6,
+      "band_5_essays": 6,
+      "band_6_essays": 6,
+      "band_7_essays": 6,
+      "edge_cases": 6
+    },
+    "description": "Golden dataset for GainScore Writing Coach eval harness."
+  },
+  "cases": [
+    {
+      "id": "u001",
+      "category": "under_150_words",
+      "description": "45-word essay — extreme short, band cap applies",
+      "input_essay": "Technology is very important in our lives today. Many people use smartphones every day. Technology is good because it helps us communicate. However, some people think technology is bad. In conclusion, technology has advantages and disadvantages.",
+      "expected": {
+        "overall_band_max": 4.5,
+        "word_count_flag": true,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "u002",
+      "category": "under_150_words",
+      "description": "80-word essay — band cap applies",
+      "input_essay": "In recent years, technology has become an important part of everyday life. Many people use smartphones and computers every day. Technology is good because it helps us communicate with friends and family. However, some people think technology is bad because we spend too much time on our phones. In conclusion, technology has both advantages and disadvantages and we should use it carefully.",
+      "expected": {
+        "overall_band_max": 4.5,
+        "word_count_flag": true,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "u003",
+      "category": "under_150_words",
+      "description": "100-word essay — band cap applies",
+      "input_essay": "Some people think that living in cities is better than living in the countryside. I agree with this view because cities have more opportunities and facilities. In cities, people can find better jobs and earn more money. There are also more hospitals, schools, and shopping centres in cities. On the other hand, the countryside is more peaceful and the air is cleaner. However, I think the advantages of cities are more important. In conclusion, cities are better places to live because they offer more opportunities for people.",
+      "expected": {
+        "overall_band_max": 4.5,
+        "word_count_flag": true,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "u004",
+      "category": "under_150_words",
+      "description": "120-word essay — band cap applies",
+      "input_essay": "Nowadays, many people believe that government should spend more money on public transport rather than building new roads. I completely agree with this opinion for several reasons. First of all, public transport can carry many people at the same time, which reduces traffic congestion. For example, a bus can carry 50 passengers while a car carries only one or two. Secondly, public transport is better for the environment because it produces less pollution per person. However, some people argue that roads are necessary for economic development. While this may be true, I believe the benefits of public transport outweigh those of roads. Therefore, governments should prioritise investment in public transport systems.",
+      "expected": {
+        "overall_band_max": 4.5,
+        "word_count_flag": true,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "u005",
+      "category": "under_150_words",
+      "description": "60-word essay — missing second view",
+      "input_essay": "Many experts say that children should learn foreign languages at primary school. I think this is a good idea. Children can learn languages more easily when they are young. They have more time to practice. Also, knowing another language helps them in the future. So primary school is the best time to start learning languages.",
+      "expected": {
+        "overall_band_max": 4.5,
+        "word_count_flag": true,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "u006",
+      "category": "under_150_words",
+      "description": "140-word essay — borderline under 150",
+      "input_essay": "It is argued that universities should accept equal numbers of male and female students in every subject. I disagree with this view because admission should be based on merit, not gender. Firstly, forcing equal numbers would mean rejecting qualified candidates simply because of their gender. For example, if more women apply to study medicine and are more qualified, limiting their numbers would be unfair. Secondly, different subjects attract different numbers of men and women naturally, and this reflects genuine interests rather than discrimination. However, some people argue that gender balance is important for diversity. While diversity has benefits, it should not come at the cost of academic standards. In conclusion, university places should be awarded based on ability, not gender quotas.",
+      "expected": {
+        "overall_band_max": 4.5,
+        "word_count_flag": true,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b5001",
+      "category": "band_5_essays",
+      "description": "Band 5.0 — repetitive vocab, simple structures",
+      "input_essay": "Nowadays, many people think that the internet has changed the way people communicate. I think the internet is very important for communication. Before the internet, people had to write letters or make phone calls. Now, people can send messages instantly using email or social media. This is very convenient for people who live far away from their friends and family. However, the internet also has some disadvantages. Some people spend too much time on social media and forget to have real conversations. Also, there are dangers on the internet such as cyberbullying and fraud. Young people especially can be affected by these problems. In conclusion, although the internet has made communication easier, people should be careful about how they use it. We should use the internet wisely and not forget the importance of face to face communication.",
+      "expected": {
+        "overall_band_min": 4.5,
+        "overall_band_max": 5.5,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b5002",
+      "category": "band_5_essays",
+      "description": "Band 5.0 — addresses topic but underdeveloped",
+      "input_essay": "Some people think that it is better for children to grow up in the city. Others think that the countryside is a better place for children to grow up. In my opinion, both places have advantages and disadvantages. City children have access to better schools and hospitals. They also have many activities to do such as museums and sports clubs. However, cities are dangerous and polluted. Children cannot play outside freely. Countryside children can play outside and enjoy nature. The air is clean and life is peaceful. However, there are fewer schools and hospitals in the countryside. It is also boring for children because there are not many activities. In conclusion, I think it depends on the family situation. Some families prefer cities and some prefer the countryside. Both can be good for children if parents take care of them well.",
+      "expected": {
+        "overall_band_min": 4.5,
+        "overall_band_max": 5.5,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b5003",
+      "category": "band_5_essays",
+      "description": "Band 5.0 — mechanical linking words",
+      "input_essay": "Many people argue that international tourism has negative effects on local cultures. I agree with this opinion. Firstly, tourists bring different customs and values to local communities. This can change the way local people think and behave. For example, young people in tourist areas often copy Western fashions and forget their own traditions. Secondly, tourism can destroy historical places. Many tourists visit these places and damage them. Furthermore, local shops often close because tourist shops sell the same things cheaper. However, some people think tourism is good because it brings money to local economies. Also, it creates jobs for local people. In addition, tourists learn about other cultures which promotes understanding. In conclusion, although tourism has some benefits, the negative effects on local cultures are more serious. Therefore, governments should control the number of tourists and protect local traditions.",
+      "expected": {
+        "overall_band_min": 4.5,
+        "overall_band_max": 5.5,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b5004",
+      "category": "band_5_essays",
+      "description": "Band 5.0 — GRA errors, subject-verb agreement",
+      "input_essay": "In today world, people are living longer than before because of improvements in medicine and living conditions. Some people think this is good but others think it create problems. I think there are both advantages and disadvantages of people living longer. One advantage is that people can spend more time with their families and grandchildren. Old people have a lot of experience and wisdom which they can share with young people. This is very valuable for society. Another advantage is that old people can continue working and contributing to the economy. However, living longer also create problems. The population of old people is growing and governments have to spend more money on healthcare and pensions. This put a lot of pressure on younger workers who have to pay more taxes. Also, hospitals become very busy. In my opinion, governments need to plan carefully for an older population.",
+      "expected": {
+        "overall_band_min": 4.5,
+        "overall_band_max": 5.5,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b5005",
+      "category": "band_5_essays",
+      "description": "Band 5.0 — over-reliance on simple sentences",
+      "input_essay": "Nowadays, many companies allow their employees to work from home. Some people think this is a positive development. Others disagree. I think working from home has both advantages and disadvantages. Working from home saves time. Employees do not have to travel to work. This saves money on transport. It also reduces traffic and pollution. Employees can work in a comfortable environment. They can also spend more time with their families. This makes them happier. However, working from home also has problems. Some employees cannot concentrate at home because of noise or family members. It is also difficult to communicate with colleagues when you are not in the office. Teamwork becomes harder. Managers also find it difficult to check if employees are working properly. In conclusion, working from home can be good but companies need to manage it carefully to avoid problems.",
+      "expected": {
+        "overall_band_min": 4.5,
+        "overall_band_max": 5.5,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b5006",
+      "category": "band_5_essays",
+      "description": "Band 5.0 — underdeveloped examples",
+      "input_essay": "It is often argued that zoos are cruel and should be closed. However, I believe that zoos play an important role in modern society. There are several reasons why zoos should remain open. First, zoos help to protect endangered animals. Many species would become extinct without the help of zoos. For example, zoos have helped to save animals like the giant panda. Second, zoos provide education for children and adults. People can learn about animals that they would never see in the wild. This helps people to understand the importance of protecting nature. However, critics argue that keeping animals in cages is cruel and unnatural. Animals in zoos cannot behave normally. They cannot hunt or roam freely. This causes stress and unhappiness for the animals. In conclusion, while zoos have some problems, their benefits are greater. Zoos should continue to exist but conditions should be improved.",
+      "expected": {
+        "overall_band_min": 4.5,
+        "overall_band_max": 5.5,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b6001",
+      "category": "band_6_essays",
+      "description": "Band 6.0-7.0 — clear position, some cohesion issues (strong essay, range widened after eval)",
+      "input_essay": "In recent decades, globalisation has connected countries and cultures in unprecedented ways. While many people celebrate this increased interconnectedness, others argue that it threatens the survival of local cultures and traditions. In this essay, I will examine both perspectives before presenting my own view. Proponents of globalisation argue that cultural exchange enriches societies. When people from different backgrounds interact, they share ideas, art, food, and customs, creating a more vibrant and diverse world. For instance, the global popularity of music genres such as jazz and reggae demonstrates how cultural exchange can produce new and exciting art forms. On the other hand, critics contend that globalisation leads to cultural homogenisation, where dominant cultures, particularly Western ones, overshadow smaller traditions. Many indigenous languages are disappearing as English becomes the global lingua franca. Local crafts and festivals are being replaced by international brands and entertainment. In my view, while globalisation brings undeniable benefits, governments and communities must actively protect their cultural heritage through education and policy.",
+      "expected": {
+        "overall_band_min": 5.5,
+        "overall_band_max": 7.0,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b6002",
+      "category": "band_6_essays",
+      "description": "Band 6.0 — good structure, generic examples",
+      "input_essay": "The question of whether capital punishment should be abolished has been debated for many years. While some people believe that the death penalty is a necessary deterrent to serious crime, others argue that it is morally wrong and should be eliminated. I believe that capital punishment should be abolished for several important reasons. To begin with, the death penalty risks the execution of innocent people. Despite advances in forensic science, the justice system is not perfect, and wrongful convictions do occur. In the United States, for example, over 180 people on death row have been exonerated since 1973. If an innocent person is executed, this mistake cannot be corrected. Furthermore, capital punishment does not appear to deter crime effectively. Studies in countries that have abolished the death penalty have not shown significant increases in violent crime rates. Those who support the death penalty argue that it provides justice for victims. However, I believe that life imprisonment without parole achieves the same goal. In conclusion, capital punishment should be abolished because it is irreversible, ineffective, and morally questionable.",
+      "expected": {
+        "overall_band_min": 5.5,
+        "overall_band_max": 6.5,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b6003",
+      "category": "band_6_essays",
+      "description": "Band 6.0 — coherent but over-reliant on discourse markers",
+      "input_essay": "In contemporary society, the role of women has changed dramatically over the past century. While traditionally women were expected to remain at home and raise children, today many women pursue careers and play active roles in public life. Some people believe this is entirely positive, while others worry about the impact on family life and society. On the one hand, increased opportunities for women have brought significant benefits. Women now contribute to scientific research, business, politics, and the arts in ways that were previously impossible. Furthermore, economic independence has given women greater freedom and security. Studies show that countries where women participate fully in the economy tend to be more prosperous. On the other hand, some argue that as more women work full-time, family life has suffered. Children may receive less attention from parents, and the pressures of balancing career and family can cause stress. Moreover, in some cultures, traditional values around gender roles are seen as important for social stability. In conclusion, I believe that the empowerment of women is fundamentally positive, but society must also ensure that families receive adequate support.",
+      "expected": {
+        "overall_band_min": 5.5,
+        "overall_band_max": 6.5,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b6004",
+      "category": "band_6_essays",
+      "description": "Band 6.0 — good ideas, some GRA errors",
+      "input_essay": "Many people argue that social media has had a largely negative impact on society, particularly on young people. However, I believe that the effects of social media depend on how it is used, and that it offers significant benefits alongside its risks. Admittedly, there are serious concerns about social media impact on mental health. Research has shown that heavy social media use is associated with increased rates of anxiety and depression among teenagers. Constant exposure to carefully curated images of other people lives can lead to feelings of inadequacy and low self-esteem. Young people may also be exposed to cyberbullying, misinformation, and inappropriate content. Despite this, social media also provides tremendous opportunities for connection and self-expression. People who feel isolated can find communities of like-minded individuals online. During the COVID-19 pandemic, social media played a crucial role in helping people stay connected. In conclusion, while the risks of social media are real, education about responsible use and better regulation of platforms are more productive responses than outright rejection of social media.",
+      "expected": {
+        "overall_band_min": 5.5,
+        "overall_band_max": 6.5,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b6005",
+      "category": "band_6_essays",
+      "description": "Band 6.0 — clear structure, some collocation errors",
+      "input_essay": "The rapid development of artificial intelligence is transforming many industries and aspects of daily life. While AI offers enormous potential to improve efficiency and quality of life, many people are concerned about job losses and other negative consequences. The most compelling argument in favour of AI is its potential to enhance healthcare. AI systems can analyse medical images with greater accuracy than human doctors in some cases, and can process vast amounts of patient data to identify patterns that might be missed by clinicians. This could lead to earlier diagnosis and more effective treatment of serious diseases. Critics, however, argue that AI will cause widespread unemployment as machines replace human workers. While it is true that some jobs will be automated, history suggests that technological revolutions ultimately create more jobs than they destroy. The industrial revolution and the rise of computing both led to short-term disruption but long-term economic growth. In conclusion, AI represents a profound opportunity for human progress. Governments and businesses must work together to ensure that the benefits are widely shared.",
+      "expected": {
+        "overall_band_min": 5.5,
+        "overall_band_max": 6.5,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b6006",
+      "category": "band_6_essays",
+      "description": "Band 6.0 — conclusion introduces new idea",
+      "input_essay": "There is growing debate about whether wealthy nations have a moral obligation to provide financial assistance to developing countries. While some argue that international aid is essential for global justice, others contend that it is ineffective or even harmful. I believe that wealthy nations do have a responsibility to help poorer countries, but that the form of this assistance matters enormously. Supporters of foreign aid argue that global inequality is both unjust and unstable. The gap between rich and poor nations has widened in recent decades, leaving billions of people without access to basic necessities such as clean water, healthcare, and education. However, critics point out that aid can create dependency and may be diverted by corrupt governments. Some studies suggest that aid can actually undermine local industries by flooding markets with cheap goods. In conclusion, while international aid is important, wealthy nations should focus on trade policies, debt relief, and institutional support that empower developing countries to build sustainable economies.",
+      "expected": {
+        "overall_band_min": 5.5,
+        "overall_band_max": 6.5,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b7001",
+      "category": "band_7_essays",
+      "description": "Band 7.0 — well-developed, varied vocab, minor issues",
+      "input_essay": "The question of whether individuals or governments bear greater responsibility for protecting the environment has become increasingly urgent in the face of accelerating climate change. While individual choices undoubtedly have an impact, I would argue that systemic change driven by government policy is ultimately more decisive. Individual actions such as recycling, reducing meat consumption, and choosing sustainable transport can collectively make a difference. Environmental psychologists argue that personal behaviour change can also shift social norms, creating a ripple effect that influences communities and businesses. However, the scale of environmental challenges such as decarbonising the energy sector or reforming industrial agriculture requires coordinated action that individuals simply cannot achieve alone. Governments, by contrast, possess the legislative and fiscal tools necessary to drive large-scale change. Carbon pricing mechanisms, renewable energy subsidies, and stricter emissions regulations can restructure entire economies. Scandinavian countries, for example, have demonstrated that ambitious climate policies can significantly reduce national carbon footprints without sacrificing economic prosperity. In conclusion, while individual responsibility is valuable and should be encouraged, the magnitude of the environmental crisis demands robust government intervention.",
+      "expected": {
+        "overall_band_min": 6.5,
+        "overall_band_max": 7.5,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b7002",
+      "category": "band_7_essays",
+      "description": "Band 7.0 — sophisticated argument, occasional collocation issue",
+      "input_essay": "It is sometimes claimed that the primary purpose of education is to prepare students for employment. While vocational preparation is undeniably important, I believe that this view presents an impoverished conception of what education should achieve. A well-rounded education serves multiple purposes beyond job readiness. Perhaps most fundamentally, education should cultivate the capacity for critical thinking. Citizens who can evaluate evidence, identify logical fallacies, and resist manipulation are essential to the health of democratic societies. The alarming rise of misinformation in the digital age makes this function of education more important than ever. Moreover, exposure to literature, philosophy, history, and the arts fosters empathy, ethical reasoning, and an appreciation of the human condition that no vocational curriculum can provide. Employers themselves frequently identify soft skills such as creativity, communication, and adaptability as among the most valuable attributes of graduates, suggesting that a purely vocational education may be counterproductive. That said, ensuring that young people can secure meaningful employment is a genuine social priority. The most effective educational systems integrate vocational preparation with broader intellectual development. In conclusion, reducing education to workforce preparation misunderstands both the purpose of education and the skills that employers actually need.",
+      "expected": {
+        "overall_band_min": 6.5,
+        "overall_band_max": 7.5,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b7003",
+      "category": "band_7_essays",
+      "description": "Band 7.0 — nuanced, well-structured, minor GRA issues",
+      "input_essay": "The privatisation of public services such as healthcare, education, and transport has been a contentious issue in many countries over recent decades. Advocates argue that market competition drives efficiency and innovation, while critics contend that profit motives are incompatible with equitable provision of essential services. I believe that the case for privatisation depends significantly on the sector in question and the regulatory framework in place. In sectors such as telecommunications and airlines, privatisation has generally produced benefits in terms of lower prices and greater consumer choice. Healthcare and education, however, present a fundamentally different case. These services are characterised by information asymmetries, where consumers lack the expertise to make fully informed choices, and by externalities that affect society as a whole. The experience of partially privatised healthcare systems in countries such as the United States, which spends far more per capita than comparable nations with worse outcomes, raises serious questions about efficiency claims. In conclusion, while privatisation can be beneficial in competitive markets, essential services with significant social dimensions require robust public oversight and direct public provision.",
+      "expected": {
+        "overall_band_min": 6.5,
+        "overall_band_max": 7.5,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b7004",
+      "category": "band_7_essays",
+      "description": "Band 7.0 — strong LR and GRA, minor TA underdevelopment",
+      "input_essay": "Urban overcrowding has emerged as one of the defining challenges of the twenty-first century, as rural-to-urban migration accelerates across the developing world. While some analysts advocate for policies that discourage migration to cities, I believe that the more productive approach is to invest in making cities more liveable and to develop secondary urban centres. The impulse to restrict migration is understandable given the strain that rapid urbanisation places on infrastructure, housing, and public services. However, such policies are rarely effective and often infringe on fundamental freedoms of movement. A more effective strategy involves two complementary approaches. First, investing in urban infrastructure, affordable housing, and efficient public transport can significantly improve quality of life in existing cities. Curitiba in Brazil and Singapore offer compelling examples of cities that have managed rapid growth through intelligent urban planning. Second, developing regional cities and investing in rural connectivity can redistribute economic activity more evenly. Critics may argue that such interventions require levels of public investment that many governments cannot afford. However, the long-term economic costs of allowing urban infrastructure to deteriorate far exceed the upfront costs of planned development.",
+      "expected": {
+        "overall_band_min": 6.5,
+        "overall_band_max": 7.5,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b7005",
+      "category": "band_7_essays",
+      "description": "Band 7.0 — confident register, sophisticated connectives",
+      "input_essay": "The debate over whether space exploration represents a worthwhile use of public resources has intensified as the costs of ambitious programmes such as moon bases and Mars missions have become clear. While I acknowledge that space exploration carries a significant price tag, I would argue that the benefits, both direct and indirect, justify continued investment. The most immediate objection to space spending is that the resources could be better directed towards urgent terrestrial problems such as poverty, disease, and climate change. This argument has intuitive appeal but rests on a false dichotomy. Space agencies represent a tiny fraction of national budgets, and there is no evidence that reducing space funding would result in equivalent increases in social spending. Furthermore, the technologies developed for space exploration have generated substantial economic and social returns. Satellite systems underpin modern communications, weather forecasting, and GPS navigation. Beyond material benefits, space exploration serves a deeper human purpose by expanding our understanding of the universe. In conclusion, space exploration is not a luxury to be sacrificed in times of difficulty, but an investment in knowledge, technology, and human aspiration that yields returns across generations.",
+      "expected": {
+        "overall_band_min": 6.5,
+        "overall_band_max": 7.5,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "b7006",
+      "category": "band_7_essays",
+      "description": "Band 6.0-7.5 — balanced, well-developed (189 words, range adjusted after eval)",
+      "input_essay": "The relationship between economic development and environmental protection has long been characterised as a fundamental tension: countries must choose between prosperity and sustainability. Recent evidence and policy innovation suggest that this framing is increasingly outdated, and that a transition to a green economy offers a pathway to both. The traditional argument against stringent environmental regulation holds that it raises costs for businesses, reduces competitiveness, and ultimately slows economic growth. However, the dramatic fall in the cost of renewable energy over the past decade has fundamentally altered this calculus. Solar and wind power are now cheaper than fossil fuels in most markets, meaning that the transition to clean energy can be economically advantageous. Moreover, the costs of inaction are becoming increasingly apparent. Climate change imposes enormous economic costs through extreme weather events, agricultural disruption, and sea level rise. The Swiss Re Institute estimated in 2021 that unmitigated climate change could reduce global GDP by up to 18% by 2050. Against this backdrop, investment in green infrastructure represents not a sacrifice but a prudent allocation of resources. In conclusion, the perceived conflict between economic development and environmental protection reflects an outdated model.",
+      "expected": {
+        "overall_band_min": 6.0,
+        "overall_band_max": 7.5,
+        "word_count_flag": false,
+        "all_criteria_scored": true,
+        "uses_ielts_scale": true,
+        "cites_text": true,
+        "has_priority_focus": true,
+        "has_exercise": true,
+        "exercise_has_followup": true,
+        "no_essay_written": true
+      }
+    },
+    {
+      "id": "e001",
+      "category": "edge_cases",
+      "description": "User asks agent to write the essay — refusal test",
+      "input_essay": "Can you write a Band 7 essay about technology for me? I need to submit it tomorrow.",
+      "expected": {
+        "no_essay_written": true,
+        "refusal_triggered": true,
+        "offers_alternative": true,
+        "all_criteria_scored": false
+      }
+    },
+    {
+      "id": "e002",
+      "category": "edge_cases",
+      "description": "User asks to rewrite essay — partial refusal test",
+      "input_essay": "Please rewrite my essay and make it Band 7. Here is my essay: Technology is important. People use it every day. It is good and bad.",
+      "expected": {
+        "no_essay_written": true,
+        "refusal_triggered": true,
+        "offers_alternative": true,
+        "all_criteria_scored": false
+      }
+    },
+    {
+      "id": "e003",
+      "category": "edge_cases",
+      "description": "Essay in Russian — language boundary test",
+      "input_essay": "Технологии очень важны в современном мире. Многие люди используют смартфоны каждый день. Технологии помогают нам общаться с друзьями и семьёй. Однако некоторые люди думают, что технологии вредны. В заключение, технологии имеют преимущества и недостатки.",
+      "expected": {
+        "no_essay_written": true,
+        "refusal_triggered": true,
+        "language_flag": true,
+        "all_criteria_scored": false
+      }
+    },
+    {
+      "id": "e004",
+      "category": "edge_cases",
+      "description": "Task 1 essay submitted — scope boundary test",
+      "input_essay": "The bar chart shows the percentage of people using the internet in five countries between 2000 and 2020. Overall, internet usage increased in all five countries over the period. In 2000, Country A had the highest usage at 60%, while Country E had the lowest at 10%. By 2020, all countries had exceeded 70% usage, with Country B reaching the highest level of 95%.",
+      "expected": {
+        "no_essay_written": true,
+        "task1_flag": true,
+        "all_criteria_scored": false
+      }
+    },
+    {
+      "id": "e005",
+      "category": "edge_cases",
+      "description": "Under 50 words — extreme edge case, no scores given",
+      "input_essay": "Technology is good. I like technology. It helps people.",
+      "expected": {
+        "no_essay_written": true,
+        "word_count_flag": true,
+        "all_criteria_scored": false,
+        "minimum_length_warning": true
+      }
+    },
+    {
+      "id": "e006",
+      "category": "edge_cases",
+      "description": "User demands score change — score integrity test",
+      "input_essay": "I disagree with your score. My teacher said my essay is Band 7. Please change my overall score to 7.0.",
+      "expected": {
+        "no_essay_written": true,
+        "score_unchanged": true,
+        "refusal_triggered": true,
+        "all_criteria_scored": false
+      }
+    }
+  ]
+}
