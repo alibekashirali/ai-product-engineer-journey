@@ -1,0 +1,796 @@
+[
+  {
+    "id": "cal_001",
+    "category": "under_150_words",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "PASS",
+        "score": 0.95,
+        "evidence": "\"Technology is very important / Technology is good\" → Vocabulary is basic, repetitive, and limited to a single topic word (\"technology\")",
+        "reasoning": "All four criteria include direct quotes from the essay text (e.g., 'Technology is good', 'In conclusion, it has advantages', 'Technology is very important / Technology is good', 'Many people use phones'), each quote is at least 4 words and appears verbatim in the essay, and each citation is relevant to the criterion being assessed.",
+        "runs": 1,
+        "raw_scores": [
+          0.95
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "PASS",
+        "score": 0.92,
+        "evidence": "Write a 4-sentence paragraph (only one paragraph) responding to this prompt: *\"Technology has more advantages than disadvantages. Do you agree or disagree?\"* Your paragraph must include: one clear opinion sentence, two separate reasons, and one specific real-world example. Submit your work here and I will review it immediately.",
+        "reasoning": "The exercise is a concrete writing task with a clearly bounded scope (4 sentences, one paragraph, specific structural requirements), completable immediately in chat, and directly targets the primary weakness identified — Task Achievement — by requiring a clear opinion, supporting reasons, and a real-world example.",
+        "runs": 1,
+        "raw_scores": [
+          0.92
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "PASS",
+        "score": 0.9,
+        "overall_band_found": "4.0",
+        "expected_range": "4.0-4.5",
+        "evidence": "scores appear accurate",
+        "reasoning": "The essay is only 19 words with no development, no structure, and minimal vocabulary, making Band 4.0 a reasonable and defensible score. All four criterion scores at 4.0 are internally consistent with the essay's severe deficiencies in task achievement, coherence, lexical range, and grammatical complexity.",
+        "runs": 1,
+        "raw_scores": [
+          0.9
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_002",
+    "category": "under_150_words",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "PASS",
+        "score": 0.95,
+        "evidence": "\"both have advantages\" → This conclusion completely avoids taking a clear position.",
+        "reasoning": "All four criteria (TA, CC, LR, GRA) include direct quotes of 4+ words from the essay ('both have advantages', 'However, countryside is peaceful', 'cities have jobs and hospitals', 'countryside is peaceful'), and each citation is relevant to the criterion being evaluated.",
+        "runs": 1,
+        "raw_scores": [
+          0.95
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "PASS",
+        "score": 0.95,
+        "evidence": "Write only one body paragraph (100–120 words) arguing that cities are better places to live. Include: one clear topic sentence, two specific reasons, one concrete real-world example, and one closing sentence. Do NOT write an introduction or conclusion. Submit your work here and I will review it immediately.",
+        "reasoning": "The exercise is a concrete writing task with a specific word count (100–120 words), clear structural requirements, and directly targets the student's weaknesses in Task Achievement, vocabulary, and paragraph development. It is completable immediately in the chat and avoids asking for a full essay rewrite.",
+        "runs": 1,
+        "raw_scores": [
+          0.95
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "PASS",
+        "score": 0.92,
+        "overall_band_found": 4.0,
+        "expected_range": "4.0-4.5",
+        "evidence": "scores appear accurate",
+        "reasoning": "The essay is only 30 words, lacks development, has minimal vocabulary, no complex grammar, and no clear argument — Band 4.0 across all criteria is well-justified and not inflated or deflated. The overall band of 4.0 falls within the expected range of 4.0–4.5.",
+        "runs": 1,
+        "raw_scores": [
+          0.92
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_003",
+    "category": "under_150_words",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "PASS",
+        "score": 0.95,
+        "evidence": "\"However, roads are also needed. Therefore, public transport is better.\"",
+        "reasoning": "All four criteria (TA, CC, LR, GRA) include direct quotes of 4+ words that appear verbatim in the essay, and each citation is relevant to the criterion being evaluated (e.g., grammar structures cited under GRA, linking words under CC).",
+        "runs": 1,
+        "raw_scores": [
+          0.95
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "PASS",
+        "score": 0.95,
+        "evidence": "Write only ONE body paragraph (minimum 100 words) arguing that government investment in public transport reduces urban congestion. Include a topic sentence, two specific supporting points with explanation, and one real-world example. Submit your work here and I will review it immediately.",
+        "reasoning": "The exercise is a concrete, bounded writing task with a clear deliverable (one body paragraph, minimum 100 words, specific structural requirements) that directly targets the student's weaknesses in Task Achievement, coherence, and underdeveloped ideas. It is completable immediately in the chat.",
+        "runs": 1,
+        "raw_scores": [
+          0.95
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "PASS",
+        "score": 0.92,
+        "overall_band_found": 4.0,
+        "expected_range": "4.0-4.5",
+        "evidence": "scores appear accurate",
+        "reasoning": "The essay is only 43 words, severely underdeveloped, with basic vocabulary and simple sentence structures throughout. A Band 4.0 across all criteria is appropriate and well-justified by the feedback, which correctly identifies the lack of development, mechanical linking, limited lexical range, and absence of complex grammatical structures.",
+        "runs": 1,
+        "raw_scores": [
+          0.92
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_004",
+    "category": "under_150_words",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "PASS",
+        "score": 0.95,
+        "evidence": "\"languages help in the future\" → This vague claim replaces the required argument development.",
+        "reasoning": "All four criteria (TA, CC, LR, GRA) include direct quotes from the essay: 'languages help in the future', 'So primary school is the best time', 'Children learn faster when young', and 'They have more time'. Each quote is at least 4 words, appears verbatim in the essay, and is relevant to the criterion being discussed.",
+        "runs": 1,
+        "raw_scores": [
+          0.95
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "PASS",
+        "score": 0.95,
+        "evidence": "Write one body paragraph (minimum 100 words) arguing *why* young children learn languages faster. Include a topic sentence, two specific reasons, and one concrete example (e.g., a country, a study, or a personal observation). Submit your work here and I will review it immediately.",
+        "reasoning": "The exercise is a concrete, bounded writing task with a clear minimum word count (100 words), specific structural requirements (topic sentence, two reasons, one example), and directly targets the identified weaknesses in Task Achievement and paragraph development. It is completable immediately in the chat.",
+        "runs": 1,
+        "raw_scores": [
+          0.95
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "PASS",
+        "score": 0.85,
+        "overall_band_found": 4.5,
+        "expected_range": "4.0-4.5",
+        "evidence": "scores appear accurate",
+        "reasoning": "The Overall Band of 4.5 falls within the expected range of 4.0-4.5. The individual criterion scores (TA 4.0, CC 4.5, LR 4.5, GRA 4.5) are internally consistent and accurately reflect a 33-word essay with no developed arguments, minimal vocabulary, simple sentence structures, and basic cohesion. A slight argument could be made for 4.0 overall given the extremely underdeveloped nature of the essay, but 4.5 is defensible.",
+        "runs": 1,
+        "raw_scores": [
+          0.85
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_005",
+    "category": "band_5_essays",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "PASS",
+        "score": 0.92,
+        "evidence": "\"very convenient,\" \"very important,\" \"real conversations\" → Vocabulary is basic and repetitive.",
+        "reasoning": "All four criteria (TA, CC, LR, GRA) include direct quotes from the essay that are at least 4 words or clearly specific phrases. The citations are relevant to their respective criteria — grammar quotes under GRA, vocabulary under LR, linking words under CC, and position statement under TA — and all quoted text appears verbatim in the essay.",
+        "runs": 1,
+        "raw_scores": [
+          0.92
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "PASS",
+        "score": 0.95,
+        "evidence": "Write **one new body paragraph** (minimum 90 words) on *one specific disadvantage* of internet communication. You must use at least **5 words or phrases** that you have never used before in this essay (e.g., \"erode,\" \"superficial interaction,\" \"anonymity,\" \"deteriorate,\" \"psychological impact\"). Underline each new word so I can check them. Submit your work here and I will review it immediately.",
+        "reasoning": "The exercise is a concrete writing task with a specific scope (one paragraph, minimum 90 words, 5 new vocabulary items underlined), directly targets the identified weakness in Lexical Resource, and can be completed immediately in the chat.",
+        "runs": 1,
+        "raw_scores": [
+          0.95
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "PASS",
+        "score": 0.85,
+        "overall_band_found": 5.0,
+        "expected_range": "4.5-5.5",
+        "evidence": "scores appear accurate",
+        "reasoning": "The Overall Band of 5.0 falls within the expected range of 4.5-5.5. The individual criterion scores are internally consistent: LR 4.5 reflects the basic, repetitive vocabulary; CC 5.5 is slightly higher due to recognizable but mechanical cohesion devices; GRA 5.0 captures simple but mostly accurate structures; and TA 5.0 reflects an underdeveloped position. No inflation or deflation is detected.",
+        "runs": 1,
+        "raw_scores": [
+          0.85
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_006",
+    "category": "band_5_essays",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "PASS",
+        "score": 0.9,
+        "evidence": "\"copy Western fashions and forget their own traditions\" → Vocabulary is simple and functional throughout.",
+        "reasoning": "All four criteria (TA, CC, LR, GRA) include direct quotes of 4+ words from the essay, each relevant to the criterion being discussed. The citations are specific and verifiable against the essay text.",
+        "runs": 1,
+        "raw_scores": [
+          0.9
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "PASS",
+        "score": 0.95,
+        "evidence": "Choose ONE of your arguments (cultural change, heritage damage, or economic displacement) and write a single body paragraph of 90–110 words. Include a topic sentence, two specific supporting points, one real-world example, and a concluding sentence linking back to your position. Submit your work here and I will review it immediately.",
+        "reasoning": "The exercise is a concrete writing task with a specific word count (90–110 words), a clear structure requirement (topic sentence, two supporting points, one example, concluding sentence), and directly targets the identified weakness in Task Achievement (underdeveloped arguments). It is completable immediately in the chat and is appropriately scoped to a single paragraph rather than the entire essay.",
+        "runs": 1,
+        "raw_scores": [
+          0.95
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "PASS",
+        "score": 0.78,
+        "overall_band_found": 5.5,
+        "expected_range": "4.5-5.5",
+        "evidence": "scores appear accurate",
+        "reasoning": "The overall band of 5.5 falls within the expected range of 4.5-5.5. The individual criterion scores are internally consistent: LR at 5.0 reflects the simple vocabulary, GRA at 6.0 is reasonable given mostly accurate but structurally simple sentences, and TA/CC at 5.5 reflect the underdeveloped arguments and mechanical cohesion. The essay is short (157 words) and underdeveloped, making 5.5 a slightly generous but defensible upper-bound score.",
+        "runs": 1,
+        "raw_scores": [
+          0.78
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_007",
+    "category": "band_5_essays",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "PASS",
+        "score": 0.92,
+        "evidence": "\"Some employees cannot concentrate at home because of noise or family members\" → Simple structures dominate throughout.",
+        "reasoning": "All four criteria (TA, CC, LR, GRA) include direct quotes of 4+ words taken verbatim from the essay, and each citation is relevant to the criterion being evaluated — e.g., the GRA quote illustrates simple sentence structure, the LR quote shows basic vocabulary, and the CC quote demonstrates basic linking.",
+        "runs": 1,
+        "raw_scores": [
+          0.92
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "FAIL",
+        "score": 0.3,
+        "evidence": "Write a single body paragraph (minimum 90 words) arguing that working from home **reduces employee productivity**. You must include: one specific cause, one specific consequence, and one real-world example or hypothetical s",
+        "reasoning": "The exercise appears to be cut off mid-sentence ('hypothetical s'), making it incomplete and ambiguous about the full requirements. While it has the structure of a valid bounded writing task, the truncated instruction means the student cannot fully understand what is required to complete it.",
+        "runs": 1,
+        "raw_scores": [
+          0.3
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "PASS",
+        "score": 0.82,
+        "overall_band_found": 5.0,
+        "expected_range": "4.5-5.5",
+        "evidence": "scores appear accurate",
+        "reasoning": "The Overall Band of 5.0 falls within the expected range of 4.5-5.5. The individual criterion scores are internally consistent: LR at 4.5 reflects the notably basic and repetitive vocabulary, CC at 5.5 acknowledges correct but limited cohesion, and TA/GRA at 5.0 reflect adequate but underdeveloped task response and simple grammatical structures throughout the short 148-word essay.",
+        "runs": 1,
+        "raw_scores": [
+          0.82
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_008",
+    "category": "band_5_essays",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "PASS",
+        "score": 0.95,
+        "evidence": "\"this is good but others think it create problems\" and \"This put a lot of pressure\" → Subject-verb agreement errors appear repeatedly.",
+        "reasoning": "All four criteria (TA, CC, LR, GRA) include direct quotes of 4+ words from the essay that are relevant to the criterion being assessed, with GRA citing two distinct grammatical errors with exact phrases, LR referencing 'experience and wisdom' and 'very valuable,' CC quoting 'However, living longer also create problems,' and TA quoting 'I think there are both advantages and disadvantages.'",
+        "runs": 1,
+        "raw_scores": [
+          0.95
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "PASS",
+        "score": 0.95,
+        "evidence": "Write 5 separate sentences about the effects of an ageing population. Each sentence must: (1) use a different grammatical structure (e.g., relative clause, passive voice, conditional, participle phrase, complex noun phrase), and (2) contain zero subject-verb agreement errors. Submit your work here and I will review it immediately.",
+        "reasoning": "The exercise is a concrete, bounded writing task (exactly 5 sentences with two specific constraints each) that directly targets the identified weakness of subject-verb agreement errors and limited grammatical range, and can be completed immediately in the chat.",
+        "runs": 1,
+        "raw_scores": [
+          0.95
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "FAIL",
+        "score": 0.3,
+        "overall_band_found": 5.5,
+        "expected_range": "4.5-5.5",
+        "evidence": "Overall Band 5.5 and GRA 5.0 for an essay with 148 words, repeated subject-verb agreement errors ('it create problems', 'This put'), missing possessive ('today world'), and thin underdeveloped paragraphs — this essay reads closer to Band 4.5",
+        "reasoning": "The essay is significantly underdeveloped at 148 words (well below the 250-word minimum), contains multiple recurring grammatical errors, uses only basic vocabulary, and fails to adequately address the task. These features collectively point to a Band 4.5 rather than 5.5; the overall band score is at the top of the expected range when the essay quality warrants the bottom, indicating mild score inflation.",
+        "runs": 1,
+        "raw_scores": [
+          0.3
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_009",
+    "category": "band_5_essays",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "PASS",
+        "score": 0.9,
+        "evidence": "\"Animals in zoos cannot behave normally. They cannot hunt or roam freely.\" → Simple sentences dominate.",
+        "reasoning": "All four criteria include direct quotes of 4+ words from the essay that are accurately cited and relevant to their respective criteria (e.g., grammar quotes under GRA, vocabulary under LR, argument structure under TA and CC). The citations are specific and verifiable against the essay text.",
+        "runs": 1,
+        "raw_scores": [
+          0.9
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "PASS",
+        "score": 0.95,
+        "evidence": "Write one full body paragraph (minimum 100 words) arguing that zoos benefit conservation. Include: a clear topic sentence, one specific real-world example, an explanation of *why* that example supports your argument, and a concluding sentence linking back to the question. Submit your work here and I will review it immediately.",
+        "reasoning": "The exercise is a concrete, bounded writing task (minimum 100 words, one paragraph) with clear structural requirements that directly targets the identified weaknesses in Task Achievement and argument development. It is completable immediately in the chat.",
+        "runs": 1,
+        "raw_scores": [
+          0.95
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "PASS",
+        "score": 0.85,
+        "overall_band_found": 5.0,
+        "expected_range": "4.5-5.5",
+        "evidence": "scores appear accurate",
+        "reasoning": "The overall band of 5.0 falls within the expected range of 4.5-5.5. The individual criterion scores are internally consistent and appropriate for a 148-word essay with basic vocabulary, simple sentence structures, underdeveloped arguments, and adequate but limited discourse markers. CC at 5.5 is slightly higher than the others, which is justifiable given the presence of discourse markers and a recognizable structure, even if incomplete.",
+        "runs": 1,
+        "raw_scores": [
+          0.85
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_010",
+    "category": "band_6_essays",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "PASS",
+        "score": 0.92,
+        "evidence": "\"When people from different backgrounds interact, they share ideas, art, food, and customs\"",
+        "reasoning": "All four criteria include direct quotes of 4+ words from the essay, and each citation is relevant to the criterion being evaluated. For example, GRA cites 'When people from different backgrounds interact, they share ideas, art, food, and customs' to discuss sentence structure, and LR cites 'cultural homogenisation,' 'global lingua franca,' and 'indigenous languages' to discuss vocabulary range.",
+        "runs": 1,
+        "raw_scores": [
+          0.92
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "PASS",
+        "score": 0.95,
+        "evidence": "Write **one body paragraph only** (minimum 100 words) defending the position that governments should protect local cultures from globalisation's effects. Your paragraph must include: a clear topic sentence, two specific real-world examples (countries, policies, or languages), and an explanation of *why* each example supports your argument. Do not write an introduction or conclusio",
+        "reasoning": "The exercise is a concrete, bounded writing task with a clear minimum word count, specific structural requirements (topic sentence, two real-world examples with explanations), and directly targets the identified weakness of underdeveloped arguments lacking analysis. The student can complete it immediately in the chat.",
+        "runs": 1,
+        "raw_scores": [
+          0.95
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "PASS",
+        "score": 0.82,
+        "overall_band_found": 6.0,
+        "expected_range": "5.5-7.0",
+        "evidence": "scores appear accurate",
+        "reasoning": "The Overall Band of 6.0 falls within the expected range of 5.5-7.0. The criterion scores are internally consistent and appropriately reflect the essay's strengths (decent vocabulary and grammar) against its significant weaknesses (underdeveloped arguments, only 148 words, no real conclusion, position stated only at the end without elaboration). The TA score of 5.5 is particularly well-justified given the severely underdeveloped response.",
+        "runs": 1,
+        "raw_scores": [
+          0.82
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_011",
+    "category": "band_6_essays",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "PASS",
+        "score": 0.95,
+        "evidence": "\"carefully curated images,\" \"feelings of inadequacy\" → Good range of topic-specific vocabulary. However, possessive errors weaken precision: \"social media impact\" should be \"social media's impact,\" and \"other people lives\" should be \"other people's lives.\"",
+        "reasoning": "All four criteria (TA, CC, LR, GRA) include direct quotes of 4+ words from the essay that are relevant to the criterion being evaluated. The citations are specific, verifiable in the essay text, and appropriately matched to the criterion discussed.",
+        "runs": 1,
+        "raw_scores": [
+          0.95
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "PASS",
+        "score": 0.98,
+        "evidence": "Write **one single body paragraph** (120–150 words) arguing that social media regulation is an effective solution to its harms. Your paragraph must include: a topic sentence, one specific real-world example, an explanation of *why* the example supports your point, and a concluding sentence linking back to the essay's thesis. Submit your work here and I will review it immediately.",
+        "reasoning": "The exercise is a concrete writing task with a specific word count (120–150 words), clear structural requirements, and directly targets the identified weakness in Task Achievement (underdeveloped arguments lacking examples and explanation). It is completable immediately in the chat.",
+        "runs": 1,
+        "raw_scores": [
+          0.98
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "PASS",
+        "score": 0.82,
+        "overall_band_found": 6.0,
+        "expected_range": "5.5-6.5",
+        "evidence": "scores appear accurate",
+        "reasoning": "The overall band of 6.0 falls within the expected range of 5.5-6.5. The criterion scores are internally consistent: TA 6.0 reflects underdevelopment and conclusion issues, CC 6.0 reflects thin paragraphing, LR 6.5 is justified by good vocabulary with minor possessive errors, and GRA 6.0 reflects competent but limited range. No inflation or deflation detected.",
+        "runs": 1,
+        "raw_scores": [
+          0.82
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_012",
+    "category": "band_6_essays",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "PASS",
+        "score": 0.92,
+        "evidence": "\"history suggests that technological revolutions ultimately create more jobs than they destroy\"",
+        "reasoning": "All four criteria (TA, CC, LR, GRA) include direct quotes of 4+ words that appear verbatim in the essay, and each citation is relevant to the criterion being assessed (e.g., the GRA quote illustrates sentence structure limitations, the LR quote demonstrates academic phrasing). The feedback clearly passes the minimum threshold of 2 properly cited criteria.",
+        "runs": 1,
+        "raw_scores": [
+          0.92
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "FAIL",
+        "score": 0.3,
+        "evidence": "Write only an introduction and two full body paragraphs (no conclusion needed) on this exact topic: *\"The advantages of AI outweigh its disadvantages.\"* Your introduction must include a clear thesis stating your position. Each body paragraph must contain a topic sentence, two specific supporting p",
+        "reasoning": "The exercise appears to be cut off mid-sentence, making it incomplete and unclear what the full requirements are for each body paragraph. While it has promising structure (specific deliverable, bounded scope, targets TA weakness), the truncation means the student cannot complete it as specified.",
+        "runs": 1,
+        "raw_scores": [
+          0.3
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "FAIL",
+        "score": 0.3,
+        "overall_band_found": 5.0,
+        "expected_range": "5.5-6.5",
+        "evidence": "Overall Band 5.0 is below the expected range of 5.5-6.5. The essay, while short (148 words) and underdeveloped, demonstrates coherent argumentation, some academic vocabulary, and no significant grammatical errors — qualities more consistent with a 5.5-6.0 band.",
+        "reasoning": "The overall band of 5.0 falls outside the expected range of 5.5-6.5. Although the essay is significantly under the word count and lacks development, the language quality, sentence variety, and logical structure present are more consistent with a 5.5 score, making this a case of mild score deflation likely driven too heavily by the word count penalty.",
+        "runs": 1,
+        "raw_scores": [
+          0.3
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_013",
+    "category": "band_6_essays",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "PASS",
+        "score": 0.92,
+        "evidence": "\"I believe that the empowerment of women is fundamentally positive, but society must ensure that families receive adequate support\" → Your position is stated, but it appears only in the final sentence.",
+        "reasoning": "All four criteria include direct quotes of 4+ words from the essay that are accurate and relevant to the criterion being discussed: TA quotes the conclusion sentence, CC quotes discourse markers and the counterargument phrase, LR quotes vocabulary examples, and GRA quotes a complex sentence and simple structures.",
+        "runs": 1,
+        "raw_scores": [
+          0.92
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "FAIL",
+        "score": 0.2,
+        "evidence": "Write *only* the counterargument body paragraph (100–130 words) for this same topic. Begin with a clear topic sentence acknowled",
+        "reasoning": "The exercise is cut off mid-sentence ('acknowled'), making it incomplete and ambiguous. While it targets the correct weakness and has a word count scope, the truncated instruction means the student lacks the full guidance needed to complete the task as intended.",
+        "runs": 1,
+        "raw_scores": [
+          0.2
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "PASS",
+        "score": 0.82,
+        "overall_band_found": 5.5,
+        "expected_range": "5.5-6.5",
+        "evidence": "scores appear accurate",
+        "reasoning": "The overall band of 5.5 falls within the expected range and is justified by the essay's significant weaknesses: underdeveloped counterargument, only 148 words (well below the 250-word minimum), mechanical discourse markers, and limited sentence variety. The individual criterion scores (TA 5.5, CC 5.5, LR 6.0, GRA 6.0) are internally consistent and plausible given the essay's brevity and structural shortcomings.",
+        "runs": 1,
+        "raw_scores": [
+          0.82
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_014",
+    "category": "band_6_essays",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "PASS",
+        "score": 0.92,
+        "evidence": "\"wealthy nations should focus on trade policies and institutional support rather than simply transferring money\" → This conclusion appears suddenly without development throughout the essay.",
+        "reasoning": "All four criteria (TA, CC, LR, GRA) include direct quotes of 4+ words that appear verbatim in the essay, and each citation is relevant to the criterion being evaluated — the conclusion quote under TA, the transition quote under CC, vocabulary examples under LR, and a sentence structure example under GRA.",
+        "runs": 1,
+        "raw_scores": [
+          0.92
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "FAIL",
+        "score": 0.1,
+        "evidence": "Write **one full body paragraph** (minimum 100 words) defending the view that wealthy nations have a moral obligation to provide financi",
+        "reasoning": "The exercise is cut off mid-sentence and incomplete, making it impossible for the student to understand the full task requirement. While it appears to have a bounded scope (one paragraph, minimum 100 words) and targets the Task Achievement weakness, the truncated prompt means the student cannot complete it as stated.",
+        "runs": 1,
+        "raw_scores": [
+          0.1
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "PASS",
+        "score": 0.82,
+        "overall_band_found": "5.5",
+        "expected_range": "5.5-6.5",
+        "evidence": "scores appear accurate",
+        "reasoning": "The overall band of 5.5 falls within the expected range, and the criterion scores are internally consistent with the essay's weaknesses: underdeveloped task response, limited paragraph structure, generic vocabulary, and simple sentence patterns. The LR and GRA scores of 6.0 are slightly generous but defensible given some appropriate academic vocabulary and grammatical accuracy.",
+        "runs": 1,
+        "raw_scores": [
+          0.82
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_015",
+    "category": "band_7_essays",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "PASS",
+        "score": 0.95,
+        "evidence": "\"Carbon pricing mechanisms, renewable energy subsidies, and stricter emissions regulations can restructure entire economies\"",
+        "reasoning": "All four criteria (TA, CC, LR, GRA) include direct quotes of 4+ words that appear verbatim in the essay, and each citation is relevant to the criterion being discussed — for example, the LR quote highlights domain-specific vocabulary, and the GRA quote demonstrates sentence complexity.",
+        "runs": 1,
+        "raw_scores": [
+          0.95
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "PASS",
+        "score": 0.95,
+        "evidence": "Write a single body paragraph of 120–150 words arguing that individual behaviour change is insufficient without government action. Include one specific real-world example (a country, policy, or statistic), one concession to the opposing view, and a closing sentence that reinforces your main argument. Submit your work here and I will review it immediately.",
+        "reasoning": "The exercise is a concrete, bounded writing task with a specific word count (120–150 words), clear structural requirements (real-world example, concession, closing sentence), and directly targets the identified weakness of underdeveloped body paragraphs and insufficient word count. It is completable immediately in the chat.",
+        "runs": 1,
+        "raw_scores": [
+          0.95
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "PASS",
+        "score": 0.82,
+        "overall_band_found": 6.5,
+        "expected_range": "6.5-7.5",
+        "evidence": "scores appear accurate",
+        "reasoning": "The overall band of 6.5 falls within the expected range, and the individual criterion scores are internally consistent with the essay quality. The essay demonstrates good vocabulary (LR 7.0) and accurate grammar (GRA 7.0), but is severely underdeveloped at 148 words with compressed arguments and weak paragraph structure, justifying lower TA (6.5) and CC (6.0) scores.",
+        "runs": 1,
+        "raw_scores": [
+          0.82
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_016",
+    "category": "band_7_essays",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "PASS",
+        "score": 0.9,
+        "evidence": "Citizens who can evaluate evidence, identify logical fallacies, and resist manipulation are essential to the health of democratic societies",
+        "reasoning": "At least 2 of the 4 criteria include direct, specific quotes from the essay: TA cites 'I believe that this view presents an impoverished conception of what education should achieve,' LR cites 'impoverished conception,' 'logical fallacies,' and 'counterproductive,' and GRA cites the full sentence about citizens evaluating evidence. All citations are relevant to the criteria being discussed and exceed 4 words.",
+        "runs": 1,
+        "raw_scores": [
+          0.9
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "PASS",
+        "score": 0.97,
+        "evidence": "Write one body paragraph of 90–120 words arguing that education should develop critical thinking. Include: a topic sentence, an explanation of *why* this matters to society, one specific real-world example (e.g., a country, policy, or documented trend), and a closing sentence linking back to the essay's main argument. Do not write an introduction or conclusion. Submit your work here and I will review it immediately.",
+        "reasoning": "The exercise is a concrete, bounded writing task with a specific word count (90–120 words), clear structural requirements (topic sentence, explanation, real-world example, closing sentence), and directly targets the identified weakness of underdeveloped body paragraphs lacking claims, explanations, and concrete examples.",
+        "runs": 1,
+        "raw_scores": [
+          0.97
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "FAIL",
+        "score": 0.2,
+        "overall_band_found": 5.5,
+        "expected_range": "6.5-7.5",
+        "evidence": "Overall Band 5.5 for an essay that demonstrates sophisticated vocabulary ('impoverished conception,' 'logical fallacies'), coherent argumentation, complex grammar with parallel structure, and clear position-taking",
+        "reasoning": "While the essay is undeniably short (148 words) and underdeveloped structurally, the quality of language, argumentation, and ideas present clearly exceeds Band 5.5. The word count issue and lack of body paragraph development would reasonably reduce scores, but the essay's genuine strengths in LR and GRA (correctly identified as 6.5) and its coherent if compressed argument place it closer to Band 6.5, which is the floor of the expected range. The examiner has over-penalized for brevity, effectively collapsing the overall band below what the demonstrated competencies warrant.",
+        "runs": 1,
+        "raw_scores": [
+          0.2
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_017",
+    "category": "band_7_essays",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "FAIL",
+        "score": 0.2,
+        "evidence": "\"the more productive approach is to invest in making cities more liveable and to develop secondary urban centres\"",
+        "reasoning": "The feedback only partially quotes the essay in the TA section (truncated with 'the more pr'), and the remaining criteria (CC, LR, GRA) contain no direct quotes or specific references to the essay text. Fewer than 2 complete criteria include proper citations from the essay.",
+        "runs": 1,
+        "raw_scores": [
+          0.2
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "FAIL",
+        "score": 0.0,
+        "evidence": "not found",
+        "reasoning": "The feedback contains no Exercise section at all — it cuts off mid-sentence after the Task Achievement commentary. There is no concrete writing task assigned to the student.",
+        "runs": 1,
+        "raw_scores": [
+          0.0
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "FAIL",
+        "score": 0.1,
+        "overall_band_found": "5.0",
+        "expected_range": "6.5-7.5",
+        "evidence": "Overall Band 5.0 assigned to an essay demonstrating sophisticated vocabulary ('accelerates across the developing world', 'infringe on fundamental freedoms'), coherent argumentation with counter-argument and rebuttal, and accurate complex grammar throughout.",
+        "reasoning": "The essay, while short (~155 words), demonstrates Band 7+ linguistic quality with precise lexical choices, error-free complex sentences, and logical structure. The word count penalty is real but would not drag all criteria to 5.0; IELTS scoring considers quality of what is written, and the expected range of 6.5-7.5 better reflects this essay's actual demonstrated ability. A 5.0 overall band is a significant score deflation.",
+        "runs": 1,
+        "raw_scores": [
+          0.1
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_018",
+    "category": "band_7_essays",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "FAIL",
+        "score": 0.3,
+        "evidence": "\"yields returns across generations\" — this phrase does not appear in the essay",
+        "reasoning": "The LR criterion quotes 'yields returns across generations' which does not appear anywhere in the student's essay, making it a fabricated citation. While TA, CC, and GRA do cite actual essay phrases ('the benefits justify continued investment', 'Furthermore, the technologies developed...', 'Space agencies represent a tiny fraction of national budgets'), the fabricated quote under LR constitutes a critical failure — cited text that does not appear in the essay is grounds for FAIL per the criteria.",
+        "runs": 1,
+        "raw_scores": [
+          0.3
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "FAIL",
+        "score": 0.2,
+        "evidence": "Take your paragraph beginning \"the technologies developed for space exploration have generated substantial economic and social returns\" and expand it into a full body paragraph of 90–110 words. Choose **one** technology (e.g., water purification or GPS), explain specifically how it was developed through space research, identify w",
+        "reasoning": "The exercise appears to be a concrete, bounded writing task targeting the identified weakness (underdeveloped body paragraphs), but it is cut off mid-sentence — the instruction is incomplete and the student cannot fully understand what is required (the 'identify w...' portion is truncated). An incomplete exercise cannot be completed as given.",
+        "runs": 1,
+        "raw_scores": [
+          0.2
+        ]
+      },
+      "correctness": {
+        "judge": "correctness",
+        "verdict": "FAIL",
+        "score": 0.2,
+        "overall_band_found": "6.0",
+        "expected_range": "6.5-7.5",
+        "evidence": "Overall Band 6.0 is outside the expected range of 6.5-7.5; the essay, while short, demonstrates clear position, coherent argumentation, and competent language use that warrants at least 6.5",
+        "reasoning": "The overall band of 6.0 falls below the expected minimum of 6.5. While the essay is underdeveloped at only 148 words, it shows clear stance, logical flow, and adequate vocabulary/grammar that individual criterion scores of 6.5 suggest the overall should be at least 6.5. The word count penalty may have dragged the overall too low, but the feedback's own criterion scores (two at 6.5) make a 6.0 overall inconsistent.",
+        "runs": 1,
+        "raw_scores": [
+          0.2
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_019",
+    "category": "edge_cases",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "FAIL",
+        "score": 0.0,
+        "evidence": "none found",
+        "reasoning": "The feedback does not analyze the student's essay at all, nor does it cite any text from it. The 'essay' submitted is a request for help rather than an actual essay, and the feedback appropriately redirects the student, but it contains zero citations or references to specific text across any of the four IELTS criteria.",
+        "runs": 1,
+        "raw_scores": [
+          0.0
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "PASS",
+        "score": 0.65,
+        "evidence": "Write YOUR attempt first — even a rough one. Give yourself 40 minutes and respond to this common prompt: 'Many people believe that individuals cannot do anything to solve environmental problems. Others think that individuals can make a real difference. Discuss both views and give your own opinion.' Write at least 250 words.",
+        "reasoning": "The task is a concrete writing exercise with a specific prompt and a minimum word count (250 words), making it completable in the chat right now. However, it asks for a full essay rather than a targeted, bounded component, which borders on being too broad, and the 40-minute framing is more of a simulation than a focused skill-building exercise targeting a specific identified weakness.",
+        "runs": 1,
+        "raw_scores": [
+          0.65
+        ]
+      }
+    }
+  },
+  {
+    "id": "cal_020",
+    "category": "edge_cases",
+    "judges": {
+      "groundedness": {
+        "judge": "groundedness",
+        "verdict": "FAIL",
+        "score": 0.0,
+        "evidence": "none found",
+        "reasoning": "The feedback does not evaluate the essay at all and contains no citations from the student's text. It simply declines to assess the non-English submission and requests an English essay, so none of the four IELTS criteria are addressed with quotes or specific references.",
+        "runs": 1,
+        "raw_scores": [
+          0.0
+        ]
+      },
+      "usefulness": {
+        "judge": "usefulness",
+        "verdict": "FAIL",
+        "score": 0.0,
+        "evidence": "not found",
+        "reasoning": "There is no Exercise section in the feedback at all. The feedback only asks the student to submit an essay and provides an example prompt, which is not a pedagogical writing exercise.",
+        "runs": 1,
+        "raw_scores": [
+          0.0
+        ]
+      }
+    }
+  }
+]
