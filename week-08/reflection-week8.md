@@ -1,5 +1,4 @@
 # Reflection — Week 8
-**Date:** 2026-05-07
 **Week:** 8 of 12 — LangGraph vs CrewAI
 **Status:** ✅ Complete — оба фреймворка запущены, реальные данные получены
 
@@ -112,12 +111,6 @@ State: {essay, word_count, scores, citations, critique, feedback, retries}
 ```
 
 Плюс добавить `raw_findings` паттерн из CrewAI — передавать memory summary напрямую в formatter.
-
-### Segmentic / TanimAI
-CrewAI подходит для быстрого прототипирования persona pipeline:
-- Меньше кода
-- Накопленный контекст естественен для persona evaluation
-- Линейный flow: profile_loader → persona → evaluator → reporter
 
 ---
 
