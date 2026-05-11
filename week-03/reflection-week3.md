@@ -89,4 +89,4 @@ if sessions_count > 10:   → retrieved + background compression
 
 ---
 
-*Week 3 of 12 | AI Product Engineer Journey | GainScore*
+*Week 3 of 12 | AI Product Engineer Journey*

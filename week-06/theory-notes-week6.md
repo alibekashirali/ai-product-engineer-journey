@@ -253,4 +253,4 @@ tools/
 
 ---
 
-*Неделя 6 из 12 | AI Product Engineer Journey | GainScore*
+*Неделя 6 из 12 | AI Product Engineer Journey*

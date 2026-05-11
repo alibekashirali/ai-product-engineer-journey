@@ -240,4 +240,4 @@ kappa = cohen_kappa_score(human_labels, judge_labels)
 
 ---
 
-*Неделя 5 из 12 | AI Product Engineer Journey | GainScore*
+*Неделя 5 из 12 | AI Product Engineer Journey*

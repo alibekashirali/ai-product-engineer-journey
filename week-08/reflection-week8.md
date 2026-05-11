@@ -147,4 +147,4 @@ State: {essay, word_count, scores, citations, critique, feedback, retries}
 
 ---
 
-*Week 8 of 12 | AI Product Engineer Journey | GainScore*
+*Week 8 of 12 | AI Product Engineer Journey*

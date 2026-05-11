@@ -161,4 +161,4 @@ tools/
 
 ---
 
-*Week 5 of 12 | AI Product Engineer Journey | GainScore*
+*Week 5 of 12 | AI Product Engineer Journey*

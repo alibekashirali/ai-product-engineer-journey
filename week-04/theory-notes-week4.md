@@ -254,4 +254,4 @@ def test_band_cap_short_essays(case, agent_response):
 
 ---
 
-*Неделя 4 из 12 | AI Product Engineer Journey | GainScore*
+*Неделя 4 из 12 | AI Product Engineer Journey*

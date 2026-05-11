@@ -146,4 +146,4 @@ Writer     → форматирует финальный фидбек
 
 ---
 
-*Week 7 of 12 | AI Product Engineer Journey | GainScore*
+*Week 7 of 12 | AI Product Engineer Journey*

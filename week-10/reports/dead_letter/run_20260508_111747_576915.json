@@ -1,0 +1,15 @@
+{
+  "run_id": "run_20260508_111747_576915",
+  "topic": "SaaS project management tools: Notion vs Linear vs Asana comparison",
+  "started_at": "2026-05-08T11:17:47.577040+00:00",
+  "finished_at": "2026-05-08T11:19:44.686324+00:00",
+  "elapsed_s": 117.1,
+  "quality": "FAIL",
+  "score": 0.35,
+  "word_count": 459,
+  "cost_tokens": 9200,
+  "retries": 2,
+  "framework": "LangGraph",
+  "error": null,
+  "brief": "# Market Research Brief\n\n## SaaS Project Management Tools: Notion vs. Linear vs. Asana\n\n**Prepared by:** Market Intelligence Division\n**Date:** 2025\n**Classification:** Internal Use\n\n---\n\n> \u26a0\ufe0f **Data Verification Notice:** Some findings below require additional verification before use in strategic decision-making.\n\n---\n\n## Executive Summary\n\nNotion, Linear, and Asana represent three distinct approaches to project management within the SaaS workspace. Each platform serves a differentiated user pr"
+}

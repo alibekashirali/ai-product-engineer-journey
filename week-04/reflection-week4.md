@@ -132,4 +132,4 @@ judges/
 
 ---
 
-*Week 4 of 12 | AI Product Engineer Journey | GainScore*
+*Week 4 of 12 | AI Product Engineer Journey*

@@ -156,4 +156,4 @@ word_count → csv_query → verify_citation → calculator → notifier. Пор
 
 ---
 
-*Week 6 of 12 | AI Product Engineer Journey | GainScore*
+*Week 6 of 12 | AI Product Engineer Journey*

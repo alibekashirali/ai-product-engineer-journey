@@ -1,0 +1,125 @@
+{
+  "run_id": "run_20260508_111747_576915",
+  "topic": "SaaS project management tools: Notion vs Linear vs Asana comparison",
+  "started_at": "2026-05-08T11:17:47.577040+00:00",
+  "finished_at": "2026-05-08T11:19:44.686324+00:00",
+  "elapsed_s": 117.1,
+  "quality": "FAIL",
+  "score": 0.35,
+  "word_count": 459,
+  "cost_tokens": 9200,
+  "retries": 2,
+  "framework": "LangGraph",
+  "error": null,
+  "brief": "# Market Research Brief\n\n## SaaS Project Management Tools: Notion vs. Linear vs. Asana\n\n**Prepared by:** Market Intelligence Division\n**Date:** 2025\n**Classification:** Internal Use\n\n---\n\n> ⚠️ **Data Verification Notice:** Some findings below require additional verification before use in strategic decision-making.\n\n---\n\n## Executive Summary\n\nNotion, Linear, and Asana represent three distinct approaches to project management within the SaaS workspace. Each platform serves a differentiated user profile — from flexible knowledge workers to precision-focused engineering teams and structured enterprise organizations. As remote and hybrid work continue to normalize, demand for purpose-built project management tooling has intensified considerably. However, **pricing divergence at scale, integration complexity, and feature overlap** make vendor selection increasingly consequential for growing teams.\n\n---\n\n## Competitive Landscape\n\n| Dimension | Notion | Linear | Asana |\n|---|---|---|---|\n| **Primary User** | General teams, creators | Engineering & product | Enterprise, cross-functional |\n| **Core Strength** | Flexibility, docs + tasks | Speed, developer workflow | Task clarity, reporting |\n| **Pricing (Team)** | ~$10/user/mo | ~$8/user/mo | ~$13.49/user/mo |\n| **Learning Curve** | Moderate–High | Low–Moderate | Low |\n\nAsana maintains the broadest enterprise footprint, while Linear has captured significant mindshare among high-growth technology companies. Notion competes on the flexibility of its all-in-one model, though this versatility introduces configuration overhead.\n\n---\n\n## Market Trends\n\n- **Consolidation pressure** is driving organizations toward fewer, more integrated tools, benefiting Notion's all-in-one proposition.\n- **AI-native features** are accelerating across all three platforms, with Asana Intelligence, Notion AI, and Linear's roadmap automation emerging as key differentiators.\n- Engineering teams increasingly favor **opinionated tooling** — purpose-built workflows over generic task boards — reinforcing Linear's growth trajectory.\n- Mid-market buyers are demonstrating increased **price sensitivity**, scrutinizing per-seat costs as headcount scales.\n\n---\n\n## Market Opportunities\n\n- **Vertical specialization:** Tools that deliver pre-configured templates for specific industries (legal, healthcare, fintech) represent an underserved growth segment.\n- **SMB migration:** Organizations graduating from spreadsheets or legacy tools like Jira represent a high-volume acquisition opportunity for all three vendors.\n- **API and integration ecosystems** present white-space for vendors offering deeper connectivity with data warehousing and BI platforms.\n\n---\n\n## Key Risks\n\n- **Vendor lock-in concerns** may slow enterprise adoption without robust data portability guarantees.\n- Feature parity is narrowing across platforms, increasing churn risk and commoditization pressure.\n- Economic headwinds continue to compress SaaS budgets, elevating the importance of demonstrable **ROI and consolidation value**.\n\n---\n\n## Recommended Next Steps\n\n1. Conduct **primary user interviews** across engineering, operations, and executive stakeholders.\n2. Validate pricing sensitivity thresholds at 50-, 200-, and 500-seat tiers.\n3. Commission a **feature gap analysis** relative to emerging AI-assisted workflow capabilities.\n\n---\n\n*This brief is intended as a preliminary orientation document. All market data should be independently verified prior to executive presentation or strategic planning use.*",
+  "agent_steps": [
+    {
+      "agent": "Planner",
+      "action": "decompose",
+      "detail": "SaaS project management tools: Notion vs Linear vs",
+      "timestamp": "2026-05-08T11:17:47.594652"
+    },
+    {
+      "agent": "Planner",
+      "action": "plan_ready",
+      "detail": "3 subtasks",
+      "timestamp": "2026-05-08T11:17:52.296851"
+    },
+    {
+      "agent": "Researcher",
+      "action": "research",
+      "detail": "3 subtasks",
+      "timestamp": "2026-05-08T11:17:52.298640"
+    },
+    {
+      "agent": "Researcher",
+      "action": "findings_ready",
+      "detail": "10 findings",
+      "timestamp": "2026-05-08T11:18:39.661935"
+    },
+    {
+      "agent": "Analyst",
+      "action": "analyze",
+      "detail": "3 research sets",
+      "timestamp": "2026-05-08T11:18:39.670949"
+    },
+    {
+      "agent": "Analyst",
+      "action": "analysis_ready",
+      "detail": "1 sections",
+      "timestamp": "2026-05-08T11:18:48.874048"
+    },
+    {
+      "agent": "Critic",
+      "action": "evaluate",
+      "detail": "SaaS project management tools: Notion vs Linear vs",
+      "timestamp": "2026-05-08T11:18:48.875989"
+    },
+    {
+      "agent": "Critic",
+      "action": "verdict",
+      "detail": "FAIL (score=0.2)",
+      "timestamp": "2026-05-08T11:18:53.749442"
+    },
+    {
+      "agent": "Analyst",
+      "action": "analyze",
+      "detail": "3 research sets",
+      "timestamp": "2026-05-08T11:18:53.751150"
+    },
+    {
+      "agent": "Analyst",
+      "action": "analysis_ready",
+      "detail": "1 sections",
+      "timestamp": "2026-05-08T11:19:05.653157"
+    },
+    {
+      "agent": "Critic",
+      "action": "evaluate",
+      "detail": "SaaS project management tools: Notion vs Linear vs",
+      "timestamp": "2026-05-08T11:19:05.655684"
+    },
+    {
+      "agent": "Critic",
+      "action": "verdict",
+      "detail": "FAIL (score=0.2)",
+      "timestamp": "2026-05-08T11:19:11.697929"
+    },
+    {
+      "agent": "Analyst",
+      "action": "analyze",
+      "detail": "3 research sets",
+      "timestamp": "2026-05-08T11:19:11.700550"
+    },
+    {
+      "agent": "Analyst",
+      "action": "analysis_ready",
+      "detail": "1 sections",
+      "timestamp": "2026-05-08T11:19:21.383777"
+    },
+    {
+      "agent": "Critic",
+      "action": "evaluate",
+      "detail": "SaaS project management tools: Notion vs Linear vs",
+      "timestamp": "2026-05-08T11:19:21.386707"
+    },
+    {
+      "agent": "Critic",
+      "action": "verdict",
+      "detail": "FAIL (score=0.35)",
+      "timestamp": "2026-05-08T11:19:26.586019"
+    },
+    {
+      "agent": "Writer",
+      "action": "write",
+      "detail": "confidence=0.7",
+      "timestamp": "2026-05-08T11:19:26.588082"
+    },
+    {
+      "agent": "Writer",
+      "action": "brief_ready",
+      "detail": "459 words",
+      "timestamp": "2026-05-08T11:19:44.683076"
+    }
+  ]
+}

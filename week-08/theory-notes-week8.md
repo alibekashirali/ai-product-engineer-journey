@@ -228,4 +228,4 @@ Conditional edges решают проблему нестабильного band 
 
 ---
 
-*Неделя 8 из 12 | AI Product Engineer Journey | GainScore*
+*Неделя 8 из 12 | AI Product Engineer Journey*

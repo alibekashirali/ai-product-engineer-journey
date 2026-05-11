@@ -1,0 +1,15 @@
+{
+  "run_id": "run_20260508_110954",
+  "topic": "EdTech platforms in Central Asia: market size, players, trends",
+  "started_at": "2026-05-08T11:09:54.796485",
+  "finished_at": "2026-05-08T11:09:54.796722",
+  "elapsed_s": 0.0,
+  "quality": "FAIL",
+  "score": 0.0,
+  "word_count": 0,
+  "cost_tokens": 0,
+  "retries": 0,
+  "framework": "LangGraph",
+  "error": "No module named 'langgraph'",
+  "brief": ""
+}

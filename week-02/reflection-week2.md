@@ -91,4 +91,4 @@ Context Pack v3 — это уже почти production-ready system prompt дл
 ---
 
 
-*Week 2 of 12 | AI Product Engineer Journey | GainScore*
+*Week 2 of 12 | AI Product Engineer Journey*

@@ -140,4 +140,4 @@ Structure every response exactly as follows:
 
 ---
 
-*Week 1 of 12 | AI Product Engineer Journey | GainScore*
+*Week 1 of 12 | AI Product Engineer Journey*

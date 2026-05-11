@@ -257,4 +257,4 @@ CREATE TABLE user_profiles (
 
 ---
 
-*Неделя 3 из 12 | AI Product Engineer Journey | GainScore*
+*Неделя 3 из 12 | AI Product Engineer Journey*

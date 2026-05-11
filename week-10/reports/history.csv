@@ -1,0 +1,11 @@
+run_id,topic,started_at,finished_at,elapsed_s,quality,score,word_count,cost_tokens,retries,framework,error
+run_20260508_110954,"AI writing tools market: competitors, pricing, growth opportunities",2026-05-08T11:09:54.794468,2026-05-08T11:09:54.795285,0.0,FAIL,0.0,0,0,0,LangGraph,No module named 'langgraph'
+run_20260508_110954,SaaS project management tools: Notion vs Linear vs Asana comparison,2026-05-08T11:09:54.795847,2026-05-08T11:09:54.796099,0.0,FAIL,0.0,0,0,0,LangGraph,No module named 'langgraph'
+run_20260508_110954,"EdTech platforms in Central Asia: market size, players, trends",2026-05-08T11:09:54.796485,2026-05-08T11:09:54.796722,0.0,FAIL,0.0,0,0,0,LangGraph,No module named 'langgraph'
+run_20260508_111602_279951,"AI writing tools market: competitors, pricing, growth opportunities",2026-05-08T11:16:02.279955+00:00,2026-05-08T11:17:47.569174+00:00,105.3,PASS,0.68,442,9200,1,LangGraph,
+run_20260508_111747_576915,SaaS project management tools: Notion vs Linear vs Asana comparison,2026-05-08T11:17:47.577040+00:00,2026-05-08T11:19:44.686324+00:00,117.1,FAIL,0.35,459,9200,2,LangGraph,
+run_20260508_111944_689928,"EdTech platforms in Central Asia: market size, players, trends",2026-05-08T11:19:44.690043+00:00,2026-05-08T11:21:07.148723+00:00,82.5,PASS,0.68,460,9200,0,LangGraph,
+run_20260508_112218_347627,B2B SaaS analytics tools,2026-05-08T11:22:18.347632+00:00,2026-05-08T11:22:19.541517+00:00,1.2,PASS,0.82,127,9200,0,LangGraph,
+run_20260508_113223_681397,"AI writing tools market: competitors, pricing, growth opportunities",2026-05-08T11:32:23.681402+00:00,2026-05-08T11:32:25.367356+00:00,1.7,PASS,0.82,131,9200,0,LangGraph,
+run_20260508_113225_370521,SaaS project management tools: Notion vs Linear vs Asana comparison,2026-05-08T11:32:25.370544+00:00,2026-05-08T11:32:26.396476+00:00,1.0,PASS,0.82,133,9200,0,LangGraph,
+run_20260508_113226_398541,"EdTech platforms in Central Asia: market size, players, trends",2026-05-08T11:32:26.398555+00:00,2026-05-08T11:32:27.421506+00:00,1.0,PASS,0.82,132,9200,0,LangGraph,

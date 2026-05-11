@@ -289,4 +289,4 @@ Every response must follow this exact structure. No deviations.
 
 ---
 
-*Week 2 of 12 | AI Product Engineer Journey | GainScore*
+*Week 2 of 12 | AI Product Engineer Journey*

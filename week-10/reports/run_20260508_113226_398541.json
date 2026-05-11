@@ -1,0 +1,22 @@
+{
+  "run_id": "run_20260508_113226_398541",
+  "topic": "EdTech platforms in Central Asia: market size, players, trends",
+  "started_at": "2026-05-08T11:32:26.398555+00:00",
+  "finished_at": "2026-05-08T11:32:27.421506+00:00",
+  "elapsed_s": 1.0,
+  "quality": "PASS",
+  "score": 0.82,
+  "word_count": 132,
+  "cost_tokens": 9200,
+  "retries": 0,
+  "framework": "LangGraph",
+  "error": null,
+  "brief": "## Executive Summary\nThe **EdTech platforms in Central Asia: market size, players, trends** market is currently valued at $1.8B–$2.5B and growing at ~24% CAGR.\nKey players are consolidating around enterprise contracts while SMB tools face pricing pressure.\n\n## Competitive Landscape\nMarket leaders hold 40%+ combined share. Vertical specialists command 3-5x pricing premiums.\nNew entrants focus on workflow integration rather than standalone features.\n\n## Pricing Models\nConsumer tier: $0–$20/mo. SMB: $20–$50/mo. Enterprise: $50–$150/user/mo.\n\n## Opportunities\n1. Regulated verticals with compliance requirements\n2. APAC expansion (35%+ CAGR in non-English markets)\n3. API-first developer tools\n\n## Risks\nPlatform consolidation by Microsoft and Google. Low switching costs in SMB segment.\n\n## Next Steps\n1. Conduct primary research with 20+ target customers\n2. Validate pricing assumptions in target segment\n3. Map competitive gaps vs top 3 players",
+  "agent_steps": [
+    {
+      "agent": "Demo",
+      "action": "complete",
+      "detail": "demo run"
+    }
+  ]
+}
